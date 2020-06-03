@@ -1,0 +1,3 @@
+Autor: Lukáš Jackanin 
+Nazov: GitHub zadanie
+Datum: 1.6.2020
